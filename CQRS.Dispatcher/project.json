@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "CQRS.Commands": "1.0.0-*",
+    "CQRS.Interfaces": "1.0.0-*",
+    "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0-preview2-final",
+    "System.ComponentModel": "4.3.0"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
